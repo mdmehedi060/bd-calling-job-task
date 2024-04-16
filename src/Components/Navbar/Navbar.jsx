@@ -64,7 +64,7 @@ const Navbar = () => {
           alt=""
         />
 
-        <img src="/src/assets/icon/Group 7.png" alt="" />
+        <img src="https://i.ibb.co/3WD9hWD/Group-7.png" alt="" />
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className=" my-10">
-      <footer className="footer p-10 bg-[#5A1BFF] text-white">
+      <footer className="footer p-10 bg-[#7079FF] text-white">
         <nav>
           <h1 className="text-white text-2xl">
             Event<span className="font-bold">Host</span>{" "}
@@ -61,7 +61,7 @@ const Footer = () => {
           </div>
         </nav>
       </footer>
-      <footer className="footer px-10 py-4 border-t bg-[#5A1BFF] text-base-content border-base-300">
+      <footer className="footer px-10 py-4 border-t bg-[#7079FF] text-base-content border-base-300">
         <aside className="items-center grid-flow-col">
           <h2 className="text-white text-xl">Pay with</h2>
           <div className="flex gap-3">
