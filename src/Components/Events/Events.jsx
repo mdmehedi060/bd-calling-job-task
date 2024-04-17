@@ -2,8 +2,8 @@ const Events = () => {
   return (
     <div className="my-10">
       <div className="text-center">
-        <h1 className="text-2xl font-bold">Events</h1>
-        <div className="flex gap-4 justify-center">
+        <h1 className="text-3xl font-bold">Events</h1>
+        <div className="flex gap-4 justify-center font-semibold">
           <button>All</button>
           <button>For you</button>
           <button>This Day</button>
@@ -11,12 +11,12 @@ const Events = () => {
           <button className="btn btn-primary bg-[#7342F9] rounded-lg">
             Music
           </button>
-          <button>union</button>
+          <button>Union</button>
         </div>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 my-6">
         <div>
-          <div className=" w-92 bg-[#F1F3FF] shadow-xl rounded-lg">
+          <div className=" w-92 h-[450px] bg-[#F1F3FF] shadow-xl rounded-lg">
             <figure className="px-10 pt-10">
               <img
                 src="https://i.ibb.co/4R0r1nV/Rectangle-16.png"
@@ -60,7 +60,7 @@ const Events = () => {
           </div>
         </div>
         <div>
-          <div className=" w-92 bg-[#F1F3FF] shadow-xl rounded-lg">
+          <div className=" w-92 h-[450px] bg-[#F1F3FF] shadow-xl rounded-lg">
             <figure className="px-10 pt-10">
               <img
                 src="https://i.ibb.co/sgB8Mfk/Rectangle-16-1.png"
@@ -104,7 +104,7 @@ const Events = () => {
           </div>
         </div>
         <div>
-          <div className=" w-92 bg-[#F1F3FF] shadow-xl rounded-lg">
+          <div className=" w-92 h-[450px] bg-[#F1F3FF] shadow-xl rounded-lg">
             <figure className="px-10 pt-10">
               <img
                 src="https://i.ibb.co/f27nY05/Rectangle-16-2.png"

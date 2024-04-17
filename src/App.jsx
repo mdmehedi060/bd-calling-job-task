@@ -5,6 +5,7 @@ import Footer from "./Components/Footer/Footer";
 import Events from "./Components/Events/Events";
 import Host from "./Components/Host/Host";
 import Scanner from "./Components/Scanner/Scanner";
+import Payment from "./Components/Payment/Payment";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Events></Events>
       <Host></Host>
       <Scanner></Scanner>
+      <Payment></Payment>
       <Footer></Footer>
     </>
   );
