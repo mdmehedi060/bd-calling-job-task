@@ -16,7 +16,7 @@ const Events = () => {
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 my-6">
         <div>
-          <div className=" w-92 bg-base-300 shadow-xl rounded-lg">
+          <div className=" w-92 bg-[#F1F3FF] shadow-xl rounded-lg">
             <figure className="px-10 pt-10">
               <img
                 src="https://i.ibb.co/4R0r1nV/Rectangle-16.png"
@@ -60,7 +60,7 @@ const Events = () => {
           </div>
         </div>
         <div>
-          <div className=" w-92 bg-base-300 shadow-xl rounded-lg">
+          <div className=" w-92 bg-[#F1F3FF] shadow-xl rounded-lg">
             <figure className="px-10 pt-10">
               <img
                 src="https://i.ibb.co/sgB8Mfk/Rectangle-16-1.png"
@@ -104,10 +104,10 @@ const Events = () => {
           </div>
         </div>
         <div>
-          <div className=" w-92 bg-base-300 shadow-xl rounded-lg">
+          <div className=" w-92 bg-[#F1F3FF] shadow-xl rounded-lg">
             <figure className="px-10 pt-10">
               <img
-                src="https://i.ibb.co/sgB8Mfk/Rectangle-16-1.png"
+                src="https://i.ibb.co/f27nY05/Rectangle-16-2.png"
                 alt="Shoes"
                 className="rounded-xl"
               />
